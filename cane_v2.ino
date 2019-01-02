@@ -23,7 +23,7 @@ float result_LONG;
 float result_LAT;
 //int cmdsc = 0;
 //char cmds[200];
-const char* host = "cane.exia.xyz"; //需要访问的域名
+const char* host = "sos.net"; //需要访问的域名
 const int httpsPort = 80;  // 需要访问的端口
 String url = "";   // 需要访问的地址
 String Igps = "gps";
